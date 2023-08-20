@@ -1,8 +1,7 @@
 
-### Olá! Eu sou o Davi Arruda 👋
- Quer me conhecer mehor?
-Quer saber sobre meu perfil profissional? Então clica na logo abaixo do LinkedIn!!
-Independente do que achou do meu perfil profissional, aproveita para conhecer um pouco sobre o perfil pessoal do Davi sem compromisso! A gente pode acabar virando amigo e/ou network! Clicana logo do Instagram, vai!!
+### Olá, Tudo bem? Sou o Davi Arruda!
+- Quer saber sobre meu perfil profissional? Então clica na logo abaixo do LinkedIn!!
+- Independente do que achou do meu perfil profissional, aproveita para conhecer um pouco sobre o perfil pessoal do Davi sem compromisso! A gente pode acabar virando amigo e/ou fazer network! Clica na logo do Instagram, vai!!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/davicostaarruda/)
